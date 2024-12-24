@@ -1,0 +1,5 @@
+:root {
+    --header-shadow-color: 0, 0, 0; /*设置header的阴影颜色，用rgb方式，但是不用css函数，按照默认的填写格式即可。*/
+    --body-background-color: #fff; /*页面背景色*/
+    --text-color: #000; /*字体颜色*/
+}
